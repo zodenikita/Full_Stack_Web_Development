@@ -1,0 +1,84 @@
+🍴 NikiTreats – A Food Website
+
+NikiTreats is a static website built with HTML and CSS.
+It represents a fictional food brand showcasing a menu, an about section, and a clean design suitable for small restaurants, food bloggers, or culinary portfolios.
+This project was created as a beginner-friendly web development project to practice structuring websites, applying CSS for design, and deploying projects to GitHub Pages.
+
+✨ Features
+Attractive Banner – A large banner image showcasing food.
+About Section – Brief description about NikiTreats, its purpose, and philosophy.
+Menu Section – Display of dishes with images, names, and an “Order Now” button.
+Responsive Layout – Works on desktop and adapts to different screen sizes.
+Interactive Buttons – Buttons change color on hover.
+Footer Section – Includes quick links (Contact, Privacy, FAQ).
+
+📂 Project Structure
+Here’s how the files are organized:
+
+NikiTreats/
+│── index.html          # Main HTML file (structure of the website)
+│── style.css           # CSS file (styling of the website)
+│── img/                # Folder for images
+│    ├── banner-junkfod.jfif
+│    ├── MargheritaPizza.jpg
+│    ├── SpaghettiCarbonara.jpg
+│    ├── CaesarSalad.jpg
+│    └── ChocolateLavaCake.jfif
+│── README.md           # Documentation file
+
+🛠️ Technologies Used
+HTML5 – for structuring content.
+CSS3 – for styling, layout, and hover effects.
+
+💻 How to Use / Run Locally
+If you want to run this project on your local computer:
+
+Clone the repository
+git clone https://github.com/zodenikita/NikiTreats.git
+
+Navigate to the folder
+cd NikiTreats
+
+Open index.html in your browser
+Just double-click index.html or right-click → "Open with Browser".
+
+🌐 How to Deploy on GitHub Pages
+To make this website live:
+Push all files to your GitHub repository.
+
+git init
+git add .
+git commit -m "Initial commit - NikiTreats Website"
+git branch -M main
+git remote add origin https://github.com/zodenikita/NikiTreats.git
+git push -u origin main
+
+Go to your repository on GitHub.
+Click on Settings → Pages.
+Under Source, select:
+Branch: main
+Folder: /root
+Click Save.
+
+Your website will be live at:
+https://zodenikita.github.io/NikiTreats/
+
+📸 Preview of Sections
+Header – Site name styled with a bold background.
+Banner – Wide food image across the page.
+About Section – Text explaining the purpose of NikiTreats.
+Menu Section – Food cards with images, dish names, and buttons.
+Footer – Simple footer with navigation links and copyright.
+
+📈 Future Enhancements 
+Add responsive navigation bar.
+Create a contact form.
+Add animations for smoother transitions.
+Use JavaScript to make "Order Now" buttons functional.
+Optimize website for SEO.
+
+📬 Contact
+👩‍💻 Author: Nikita Zode
+📧 Email: nzode12@gmail.com
+
+✨ Built with love and passion for food & web development ❤️
